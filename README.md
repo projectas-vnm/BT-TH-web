@@ -15,6 +15,7 @@
    - Thiết kế admin
    - Xử lý báo cáo
    - PHP + MYSQL + LARAVEL
+   - Tham khảo: https://www.youtube.com/watch?v=bkiIBo4DwOw
 
 
 # Chat
